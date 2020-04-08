@@ -1,19 +1,19 @@
-# Welcome to the MacAdmins Slack Team.
+# Welcome to the Futureproof IT Conference and Slack Team.
 
 ## Introduction
-This community is a complement to the Freenode IRC channels, the various MDM and package management user forums, the Facebook groups, and the mailing lists and seeks to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
+This community is a part of the Futureproof IT conference, and seeks to provide a safe, friendly community for participants to interact with one another.
 
 We hope that you find the community to be enriching to your personal and professional lives, and above all else a place of camaraderie where our collective knowledge and differences are celebrated in a positive, welcoming environment.
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
--MacAdmins Slack Administrative Team
+-Futureproof IT Conference Team
 
 ---
 
 ## Code Of Conduct
 
-All are welcome to participate in the Slack team as long as the tenets of this Code of Conduct are adhered to.
+All are welcome to participate in the Conference and Slack team as long as the tenets of this Code of Conduct are adhered to.
 
 ## Short Version:
 
@@ -29,7 +29,7 @@ Additionally, if you are a reporter or a member of the press:
 * you must have that information listed in your profile - documentation on how to do that is [available here](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile)
 * if you want to interview someone about something, you need to ask permission to interview them and inform them about where their comments may end up being published prior to the start of the interview. 
 
-Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
+Everyone is welcome to participate, and no judgement will be made on members of the greater community who are not a part of the community.
 
 
 ## Long Version:
@@ -37,9 +37,9 @@ Everyone is welcome to participate, and no judgement will be made on members of 
 
 ### Policies
 
-The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+The Futureproof IT Conference Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 
-We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team.
+We do not tolerate harassment of Conference participants in any form. Sexual language and imagery is not appropriate for any venue. Participants violating these rules may be sanctioned or expelled from the Conference and all associated mediums at the discretion of the Administrative Team.
 
 Harassment includes, but is not limited to:
 
@@ -60,7 +60,7 @@ Harassment includes, but is not limited to:
 ### Enforcement
 Participants asked to stop any harassing behavior are expected to comply immediately
 
-If a participant engages in harassing behaviour, the Administrative Team retain the right to take any actions to keep the event a welcoming environment for all participants, including warning the offender or expulsion of the offender from the MacAdmins Slack.
+If a participant engages in harassing behaviour, the Administrative Team retain the right to take any actions to keep the event a welcoming environment for all participants, including warning the offender or expulsion of the offender from the Conference.
 
 The Administrative Team may take action to redress anything designed for, or with the clear impact of, disrupting the community or making the environment hostile for any participants.
 
@@ -70,7 +70,7 @@ We expect participants to follow these rules in all public and private channels 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, and you feel comfortable speaking with the offender, please inform the offender that they have affected you negatively. Often, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion. As a world-wide community, we recognize that there are inherent language barriers we must work together to overcome.
 
-The MacAdmins Slack Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
+The Futureproof Conference Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
 
 [Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
 
